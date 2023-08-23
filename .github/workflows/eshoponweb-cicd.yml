@@ -9,7 +9,7 @@ env:
   LOCATION: southindia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 68dba6f6-217f-453f-a90d-f156a3c7c259
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: az400-webapp-mnrao
 
 
 jobs:
